@@ -102,4 +102,8 @@ streamlit run app.py
 
 ## 🧑‍💻 Autor
 
-**Daniel20051601**
+## Autor
+
+Ramón Emilio López
+- **GitHub:** [@Daniel20051601](https://github.com/Daniel20051601)
+- **LinkedIn:** [ramón-emilio-lopez-57a833211](https://www.linkedin.com/in/ram%C3%B3n-emilio-lopez-57a833211/)
