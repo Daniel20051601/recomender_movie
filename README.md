@@ -1,6 +1,6 @@
-# 🎬 Netflix Movie Explorer (Portfolio Project)
+# 🎬 Netflix Movie Recomender
 
-Proyecto de portafolio de **análisis de datos** + **aplicación interactiva** para explorar un catálogo de películas y visualizar resultados desde una interfaz web.
+Proyecto de **análisis de datos** + **aplicación interactiva** para explorar un catálogo de películas y visualizar resultados desde una interfaz web.
 
 Este repositorio combina:
 - **Notebooks (Jupyter)** para exploración, limpieza y preparación de datos.
